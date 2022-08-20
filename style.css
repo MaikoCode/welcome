@@ -1,0 +1,15 @@
+body {
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    color: hsl(0, 0%, 0%);
+    padding-top:10em;
+    font-family: 'Silkscreen', cursive;
+    /* margin-right: auto;
+    margin-left: auto; */
+  }
+
+  a{
+    cursor: pointer;
+  }
+
+  * { color: hsl(0, 0%, 0%); text-decoration: none;}
